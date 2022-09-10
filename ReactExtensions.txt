@@ -1,0 +1,6 @@
+1. Thunder Client
+2. ES7 
+3. Auto close tag
+4. Auto rename tag
+5. Live Server
+6. Prettier
